@@ -1,7 +1,7 @@
 #  Power BI Sales Performance Dashboard
 
 ## Overview
-This project is an **Power BI case study** focused on analyzing sales performance and profitability across customers, products, and countries.
+This project is an **Power BI case study** focused on analyzing sales performance and profitability across customers, products and countries.
 
 The report supports **two different user groups**:
 - Executive leadership (CEO & managers)
